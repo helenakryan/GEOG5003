@@ -1,0 +1,1741 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.25558615,53.43654421 ]
+    },
+    "properties": {
+    "id":1,
+    "club":"Broughton Park",
+    "league":"NC1 North South",
+    "address":"2 Houghend Cres, Manchester M21 7TL",
+    "website":"https://broughtonparkfc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.552549229,53.33497215 ]
+    },
+    "properties": {
+    "id":2,
+    "club":"Sheffield Tigers",
+    "league":"NC1 North South",
+    "address":"Hathersage Rd, Sheffield S17 3AB",
+    "website":"http://sheffieldtigers.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.47502526,53.26004024 ]
+    },
+    "properties": {
+    "id":3,
+    "club":"Lincoln Ladies",
+    "league":"NC1 North South",
+    "address":"Longdales Park, Lodge Ln, Lincoln LN2 2RS",
+    "website":"https://lincolnrfc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.329756016,53.43301649 ]
+    },
+    "properties": {
+    "id":4,
+    "club":"Trafford MV Ladies",
+    "league":"NC1 North South",
+    "address":"34 Finny Bank Rd, Sale M33 6LR",
+    "website":"https://traffordmvrfcc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.078606349,53.53468063 ]
+    },
+    "properties": {
+    "id":5,
+    "club":"Doncaster Demons",
+    "league":"NC1 North South",
+    "address":"Armthorpe Rd, Doncaster DN2 5QB",
+    "website":"https://www.pitchero.com/clubs/Round Ash Park/Hand La, 63 Hand Ln, Leigh WN7 3NAdoncasterphoenix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.521662225,53.48054646 ]
+    },
+    "properties": {
+    "id":6,
+    "club":"Leigh Ladies",
+    "league":"NC1 North South",
+    "address":"63 Hand Ln, Leigh WN7 3NA",
+    "website":"http://www.pitchero.com/clubs/leigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.371100607,53.48176509 ]
+    },
+    "properties": {
+    "id":7,
+    "club":"Eccles Ladies",
+    "league":"NC1 North South",
+    "address":"Gorton St, Eccles, Manchester M30 7LZ",
+    "website":"http://eccles.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.024613473,53.61866684 ]
+    },
+    "properties": {
+    "id":8,
+    "club":"Southport Ladies",
+    "league":"NC1 North South",
+    "address":"Rugby Club, Waterloo Rd, Southport PR8 4QN",
+    "website":"http://www.southportrfc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.774871377,54.96962553 ]
+    },
+    "properties": {
+    "id":9,
+    "club":"Ryton Women",
+    "league":"NC1 North North",
+    "address":"Main Road Barmoor Ryton Tyne And Wear NE40 3AG United Kingdom",
+    "website":"http://rytonrfcltd.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.143652545,54.60062483 ]
+    },
+    "properties": {
+    "id":10,
+    "club":"Keswick Women",
+    "league":"NC1 North North",
+    "address":"Davidson Park, Crow Park Road, Keswick CA12 5EG",
+    "website":"http://www.keswickrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.329332273,54.76694477 ]
+    },
+    "properties": {
+    "id":11,
+    "club":"Peterlee and Horden Ladies",
+    "league":"NC1 North North",
+    "address":"Eden Ln, Peterlee SR8 5DJ",
+    "website":"https://www.pitchero.com/clubs/hordenrugbyclub"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.79206766,54.01278467 ]
+    },
+    "properties": {
+    "id":12,
+    "club":"Lancaster Lionesses Women",
+    "league":"NC1 North North",
+    "address":"Lancaster University Sports Centre Lancaster Lancashire LA1 4YQ United Kingdom",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.499829936,53.96633074 ]
+    },
+    "properties": {
+    "id":13,
+    "club":"Harrogate Ladies",
+    "league":"NC1 North North",
+    "address":"Rudding Ln, Harrogate HG3 1DQ",
+    "website":"http://www.harrogaterugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.917843002,54.89503601 ]
+    },
+    "properties": {
+    "id":14,
+    "club":"Carlisle Cougars Ladies",
+    "league":"NC1 North North",
+    "address":"Rugby Ground, Warwick Rd, Carlisle CA1 1LW",
+    "website":"http://www.pitchero.com/clubs/carlislerugby/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.561009317,54.63466215 ]
+    },
+    "properties": {
+    "id":15,
+    "club":"Workington Ladies",
+    "league":"NC1 North North",
+    "address":"Ellis Sports Ground, Mossbay Rd, Workington CA14 3XZ",
+    "website":"https://www.workingtonrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.844708551,54.30747771 ]
+    },
+    "properties": {
+    "id":16,
+    "club":"Wensleydale Women",
+    "league":"NC2 North North",
+    "address":"Cawkill Park Wensley Road Leyburn NORTH YORKSHIRE DL8 5ED UNITED KINGDOM",
+    "website":"https://wrufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.344676502,54.56664237 ]
+    },
+    "properties": {
+    "id":17,
+    "club":"Stockton Rockets Ladies",
+    "league":"NC2 North North",
+    "address":"52A Oxbridge Ave, Stockton-on-Tees TS18 4JF",
+    "website":"http://www.stocktonrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.583241736,55.00583112 ]
+    },
+    "properties": {
+    "id":18,
+    "club":"Novocastrians Ladies II",
+    "league":"NC2 North North",
+    "address":"The Drive, Longbenton, Newcastle upon Tyne NE7 7SZ",
+    "website":"https://www.novos.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.734705502,54.65899507 ]
+    },
+    "properties": {
+    "id":19,
+    "club":"Penrith Ladies",
+    "league":"NC2 North North",
+    "address":"Winters Pk, Penrith CA11 8RQ",
+    "website":"http://www.pitchero.com/clubs/penrithrufc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.433353758,54.35374088 ]
+    },
+    "properties": {
+    "id":20,
+    "club":"North Allerton Ladies",
+    "league":"NC2 North North",
+    "address":"Brompton Lodge, Northallerton Rd, Brompton, Northallerton DL6 2PZ",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.690650002,54.95343915 ]
+    },
+    "properties": {
+    "id":21,
+    "club":"Blaydon Red Kites 2XV",
+    "league":"NC2 North North",
+    "address":"Crow Trees Ground Hexham Road Newcastle Upon Tyne Tyne And Wear NE16 3BN United Kingdom",
+    "website":"http://www.blaydonrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.564986445,54.50969637 ]
+    },
+    "properties": {
+    "id":22,
+    "club":"Darlington Ladies",
+    "league":"NC2 North North",
+    "address":"Grange Rd, Darlington DL1 5NR",
+    "website":"https://www.pitchero.com/clubs/darlingtonrfc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.537721131,53.25394793 ]
+    },
+    "properties": {
+    "id":23,
+    "club":"Winnington Park Ladies",
+    "league":"NC2 North South",
+    "address":"Burrows Hill, Hartford, Northwich CW8 3AA",
+    "website":"https://winningtonparkrfc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.321740273,53.4165255 ]
+    },
+    "properties": {
+    "id":24,
+    "club":"Sale FC 1861 Women II",
+    "league":"NC2 North South",
+    "address":"Corpacq Stadium Heywood Road Brooklands Sale Cheshire M33 3WB United Kingdom",
+    "website":"http://www.salefc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.160460645,53.27221569 ]
+    },
+    "properties": {
+    "id":25,
+    "club":"Macclesfield Women",
+    "league":"NC2 North South",
+    "address":"Priory Park, Priory Ln, Macclesfield SK10 4AF",
+    "website":"http://www.macclesfieldrufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.477674114,53.05963638 ]
+    },
+    "properties": {
+    "id":26,
+    "club":"Crewe & Nantwich Ladies",
+    "league":"NC2 North South",
+    "address":"Newcastle Rd, Cheshire, Nantwich CW5 7EP",
+    "website":"https://www.cnrugby.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.505935702,54.17041313 ]
+    },
+    "properties": {
+    "id":27,
+    "club":"Vagabond Ladies",
+    "league":"NC2 North South",
+    "address":"IOM Vagabonds Clubhouse Ballafletcher Sports Grounds Ballafletcher Braddan ISLE OF MAN IM4 4RJ UNITED KINGDOM",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.238772202,53.41237437 ]
+    },
+    "properties": {
+    "id":28,
+    "club":"Didsbury Toc H Ladies",
+    "league":"NC2 North South",
+    "address":"Clubhouse, Ford Ln, Didsbury, Manchester M20 2RU",
+    "website":"https://www.didsburyrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13811646,53.47761036 ]
+    },
+    "properties": {
+    "id":29,
+    "club":"Aldwinian Women",
+    "league":"NC2 North South",
+    "address":"Audenshaw Park, Droylsden Rd, Audenshaw, Manchester M34 5SN",
+    "website":"http://www.aldwinians.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.300755773,53.58348366 ]
+    },
+    "properties": {
+    "id":30,
+    "club":"Bury Ladies",
+    "league":"NC2 North South",
+    "address":"Radcliffe Rd, Bury BL9 9JX",
+    "website":"http://www.buryrufc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.65087726,53.85000354 ]
+    },
+    "properties": {
+    "id":31,
+    "club":"Yarnbury Women",
+    "league":"NC2 North Central",
+    "address":"Brownberrie Ln, Horsforth, Leeds LS18 5HB",
+    "website":"https://www.pitchero.com/clubs/yarnbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.493568089,53.65018588 ]
+    },
+    "properties": {
+    "id":32,
+    "club":"Sandal Women",
+    "league":"NC2 North Central",
+    "address":"Standbridge Ln, Sandal Magna, Wakefield WF2 7DY",
+    "website":"http://www.pitchero.com/clubs/sandalrufc/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.816719972,53.7308476 ]
+    },
+    "properties": {
+    "id":33,
+    "club":"Old Brodleians Ladies",
+    "league":"NC2 North Central",
+    "address":"Woodhead, Denholme Gate Rd, Halifax HX3 8HX",
+    "website":"https://www.oldbrodleians.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.03017616,53.95622586 ]
+    },
+    "properties": {
+    "id":34,
+    "club":"Skipton Ladies",
+    "league":"NC2 North Central",
+    "address":"Sandylands Sports Centre, Carleton New Rd, Skipton BD23 2AZ",
+    "website":"http://www.pitchero.com/clubs/skiptonrugbyfootballclub/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73267696,53.7963846 ]
+    },
+    "properties": {
+    "id":35,
+    "club":"Preston Grasshoppers Women",
+    "league":"NC2 North Central",
+    "address":"Lightfoot Green Ln, Preston PR4 0AP",
+    "website":"http://www.pgrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.871614931,53.70496342 ]
+    },
+    "properties": {
+    "id":36,
+    "club":"Old Crossleyans Women",
+    "league":"NC2 North Central",
+    "address":"Broomfield Ave, Halifax HX3 0JE",
+    "website":"https://oldcrossleyansrufc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.276711872,54.0656497 ]
+    },
+    "properties": {
+    "id":37,
+    "club":"North Ribblesdale Ladies",
+    "league":"NC2 North Central",
+    "address":"Grove Park, Lower Greenfoot, Settle BD24 9RB",
+    "website":"http://www.northribblesdale.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.699180918,55.40218938 ]
+    },
+    "properties": {
+    "id":38,
+    "club":"Alnwick Women",
+    "league":"NC3 North North",
+    "address":"Greensfield, Willowburn Avenue, Alnwick NE66 1BE",
+    "website":"http://www.pitchero.com/clubs/alnwick"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.44991166,55.03703967 ]
+    },
+    "properties": {
+    "id":39,
+    "club":"Whitley Bay Rockcliff Roses Women",
+    "league":"NC3 North North",
+    "address":"Lovaine Avenue, Whitley Bay NE25 8RW",
+    "website":"http://www.rockcliffrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.443777302,55.01693668 ]
+    },
+    "properties": {
+    "id":40,
+    "club":"Percy Park Panthers Ladies",
+    "league":"NC3 North North",
+    "address":"Percy Park, Percy Park RFC, Preston Ave, Tynemouth, North Shields NE30 2BE",
+    "website":"https://www.percyparkrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.829646743,54.85903777 ]
+    },
+    "properties": {
+    "id":41,
+    "club":"Consett & District Women",
+    "league":"NC3 North North",
+    "address":"Amethyst Park, Medomsley Rd, Consett DH8 6LU",
+    "website":"https://www.pitchero.com/clubs/consett/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.500097373,54.95928687 ]
+    },
+    "properties": {
+    "id":42,
+    "club":"Jarrovians Women",
+    "league":"NC3 North North",
+    "address":"Community Centre, St Lukes Ct, Hebburn NE31 2BB",
+    "website":"https://www.facebook.com/JarroviansRUFC/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.991725502,55.73892363 ]
+    },
+    "properties": {
+    "id":43,
+    "club":"Berwick Upon Tweed Ladies",
+    "league":"NC3 North North",
+    "address":"11 Derwent Water Ter, Scremerston, Berwick-upon-Tweed TD15 2QY",
+    "website":"http://www.berwickrugbyclub.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.594905402,54.94150115 ]
+    },
+    "properties": {
+    "id":44,
+    "club":"Gateshead Women",
+    "league":"NC3 North North",
+    "address":"Hedley Lawson Park, Eastwood Gardens, Low Fell, Gateshead NE9 5UB",
+    "website":"https://www.gatesheadrfc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.738297131,55.04794152 ]
+    },
+    "properties": {
+    "id":45,
+    "club":"Ponteland Tigers Women",
+    "league":"NC3 North North",
+    "address":"Ponteland Leisure Centre, Callerton Ln, Ponteland, Newcastle upon Tyne NE20 9EG",
+    "website":"http://www.pitchero.com/clubs/ponteland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.847893502,53.65901835 ]
+    },
+    "properties": {
+    "id":46,
+    "club":"Huddersfield Laund Hill Ladies",
+    "league":"NC3 North South",
+    "address":"Laund Hill Stadium, New Hey Rd, Salendine Nook, Huddersfield HD3 3XF",
+    "website":"https://hlhrufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.604716045,53.87610035 ]
+    },
+    "properties": {
+    "id":47,
+    "club":"West Park Leeds Women II",
+    "league":"NC3 North South",
+    "address":"The Sycamores, Bramhope, Leeds LS16 9JR",
+    "website":"http://www.westparkleeds.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.19418816,53.61693801 ]
+    },
+    "properties": {
+    "id":48,
+    "club":"Rochdale Women",
+    "league":"NC3 North South",
+    "address":"Moorgate Ave, Rochdale OL11 5LU",
+    "website":"http://www.rrufc.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.016497045,54.07476375 ]
+    },
+    "properties": {
+    "id":49,
+    "club":"Wharfdale Ladies",
+    "league":"NC3 North South",
+    "address":"Wharfeside Ave, Threshfield, Skipton BD23 5BS",
+    "website":"http://www.wharfedalerufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.391424389,53.86425259 ]
+    },
+    "properties": {
+    "id":50,
+    "club":"Clithero Women",
+    "league":"NC3 North South",
+    "address":"Littlemoor Rd, Clitheroe BB7 1EW",
+    "website":"https://www.clitheroerugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.110616143,53.51305227 ]
+    },
+    "properties": {
+    "id":51,
+    "club":"Oldham Ladies",
+    "league":"NC3 North South",
+    "address":"Byrth Rd, Oldham OL8 2TJ",
+    "website":"http://www.pitchero.com/clubs/OldhamRUFC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.041518638,54.60315126 ]
+    },
+    "properties": {
+    "id":52,
+    "club":"Redcar Women",
+    "league":"NC3 North East",
+    "address":"Green Ln, Redcar TS10 3RW",
+    "website":"https://www.redcarrufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.476348629,54.84109616 ]
+    },
+    "properties": {
+    "id":53,
+    "club":"Houghton Ladies",
+    "league":"NC3 North East",
+    "address":"Dairy Ln, Houghton le Spring DH4 5BW",
+    "website":"http://www.pitchero.com/clubs/houghton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562552031,54.77293738 ]
+    },
+    "properties": {
+    "id":54,
+    "club":"Durham City Dragons",
+    "league":"NC3 North East",
+    "address":"Hollow Drift, Green Ln, Durham DH1 3JU",
+    "website":"https://www.pitchero.com/clubs/durhamcityrugbyfootballclub/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.352953951,54.52976046 ]
+    },
+    "properties": {
+    "id":55,
+    "club":"Yarm Swifts",
+    "league":"NC3 North East",
+    "address":"Wass Way, Stockton-on-Tees TS16 0RG",
+    "website":"https://yarm.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.234150045,54.70569187 ]
+    },
+    "properties": {
+    "id":56,
+    "club":"Hartlepool Women",
+    "league":"NC3 North East",
+    "address":"Mayfield Park, Easington Rd, Hartlepool TS24 9BA",
+    "website":"http://www.hartlepoolrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.355031616,54.47074394 ]
+    },
+    "properties": {
+    "id":57,
+    "club":"Upper Eden Ladies",
+    "league":"NC3 North East",
+    "address":"Pennine Park, Westgarth Rd CA17 4TF",
+    "website":"http://uppereden.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.532097399,54.1348827 ]
+    },
+    "properties": {
+    "id":58,
+    "club":"Ripon Bluebelles Women",
+    "league":"NC3 North East",
+    "address":"Mallorie Park Dr, Ripon HG4 2QD",
+    "website":"https://www.riponrugby.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.634873972,53.35719555 ]
+    },
+    "properties": {
+    "id":59,
+    "club":"Moore Women",
+    "league":"NC3 North West",
+    "address":"Moss Ln, Moore, Warrington WA4 6UU",
+    "website":"http://www.moorerufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.586534589,53.56294357 ]
+    },
+    "properties": {
+    "id":60,
+    "club":"Aspull Women",
+    "league":"NC3 North West",
+    "address":"Woods Rd, Aspull, Wigan WN2 1PJ",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.152414431,53.37126378 ]
+    },
+    "properties": {
+    "id":61,
+    "club":"Stockport Scarlets Women",
+    "league":"NC3 North West",
+    "address":"The Memorial Ground, Headlands Rd, Bramhall, Stockport SK7 3AN",
+    "website":"https://www.stockportrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.036208377,53.90495646 ]
+    },
+    "properties": {
+    "id":62,
+    "club":"Fleetwood Ladies",
+    "league":"NC3 North West",
+    "address":"Melbourne Ave, Fleetwood FY7 8AY",
+    "website":"https://www.pitchero.com/clubs/fleetwood/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.919000431,53.36424057 ]
+    },
+    "properties": {
+    "id":63,
+    "club":"Liverpool Collegiate Bluebirds",
+    "league":"NC3 North West",
+    "address":"Liverpool Cricket and Sports Club, Aigburth, Liverpool L19 3QF",
+    "website":"http://www.liverpoolcollegiaterugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.054054073,53.42147428 ]
+    },
+    "properties": {
+    "id":64,
+    "club":"Oldershaw Women",
+    "league":"NC3 North West",
+    "address":"The Recreation Ground, Belvidere Rd, Wallasey CH45 4RY",
+    "website":"http://www.pitchero.com/clubs/oldershaw/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.020881045,53.32524069 ]
+    },
+    "properties": {
+    "id":65,
+    "club":"Wirral Ladies",
+    "league":"NC3 North West",
+    "address":"Thornton Common Rd, Birkenhead, Wirral CH63 0LT",
+    "website":"https://www.wirralrugbyclub.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.887921031,53.57157617 ]
+    },
+    "properties": {
+    "id":66,
+    "club":"Ormskirk Ladies",
+    "league":"NC3 North West",
+    "address":"Green Ln, Ormskirk L39 1ND",
+    "website":"https://ormskirkrugby.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.100852664,53.01133032 ]
+    },
+    "properties": {
+    "id":67,
+    "club":"Mellish Ladies",
+    "league":"NC2 Midlands North",
+    "address":"Plains Rd, Nottingham NG3 5RX",
+    "website":"http://www.mellishrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.146570631,53.14424107 ]
+    },
+    "properties": {
+    "id":68,
+    "club":"Mansfield Women",
+    "league":"NC2 Midlands North",
+    "address":"Eakring Rd, Mansfield NG18 3EW",
+    "website":"http://www.pitchero.com/clubs/mansfieldrugby/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.653772308,53.57670321 ]
+    },
+    "properties": {
+    "id":69,
+    "club":"Scunthorpe Women",
+    "league":"NC2 Midlands North",
+    "address":"Heslam Park Club, 124 Ashby Rd, Scunthorpe DN16 2AG",
+    "website":"http://scunthorperugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.594933631,52.89092863 ]
+    },
+    "properties": {
+    "id":70,
+    "club":"Kesteven Ladies",
+    "league":"NC2 Midlands North",
+    "address":"Woodnook, Grantham NG33 5AA",
+    "website":"http://www.kestevenrugby.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.069378102,52.97712333 ]
+    },
+    "properties": {
+    "id":71,
+    "club":"Boston Ladies",
+    "league":"NC2 Midlands North",
+    "address":"Great Fen Rd, Wyberton, Boston PE21 7PB",
+    "website":"http://www.bostonrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.573429487,53.74504993 ]
+    },
+    "properties": {
+    "id":72,
+    "club":"Hull Ionian Women",
+    "league":"NC2 Midlands North",
+    "address":"Brantingham Park, Brantingham Rd, Elloughton, Brough HU15 1HX",
+    "website":"https://www.hullionians.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.827059773,53.08366883 ]
+    },
+    "properties": {
+    "id":73,
+    "club":"Newark Women",
+    "league":"NC2 Midlands North",
+    "address":"Kelham Rd, Newark NG24 1WN",
+    "website":"https://www.newarkrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35056576,53.07399886 ]
+    },
+    "properties": {
+    "id":74,
+    "club":"Amber Valley Tigers Ladies",
+    "league":"NC2 Midlands North",
+    "address":"Lower Somercotes, Somercotes, Alfreton DE55 4NQ",
+    "website":"http://ambervalleyrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.706715773,52.64449363 ]
+    },
+    "properties": {
+    "id":75,
+    "club":"Tamworth Ladies",
+    "league":"NC2 Midlands West",
+    "address":"Wigginton Lodge, Solway Cl, Tamworth B79 8ED",
+    "website":"http://www.pitchero.com/clubs/tamworth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.109411816,52.43380343 ]
+    },
+    "properties": {
+    "id":76,
+    "club":"Old Halesonians Women",
+    "league":"NC2 Midlands West",
+    "address":"Wassell Gr La, Stourbridge DY9 9JP",
+    "website":"https://www.oldhalesoniansrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.595011431,52.36497232 ]
+    },
+    "properties": {
+    "id":77,
+    "club":"Clee Hill Women",
+    "league":"NC2 Midlands West",
+    "address":"Knowle, Ludlow SY8 3NL",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.130241943,52.81089476 ]
+    },
+    "properties": {
+    "id":78,
+    "club":"Stafford Women",
+    "league":"NC2 Midlands West",
+    "address":"Blackberry Ln, Stafford ST16 2TT",
+    "website":"https://www.staffordrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.683463931,52.78935501 ]
+    },
+    "properties": {
+    "id":79,
+    "club":"Burton Ladies",
+    "league":"NC2 Midlands West",
+    "address":"Battlestead Croft, Branston Rd, Tatenhill, Burton-on-Trent DE13 9FF",
+    "website":"http://www.pitchero.com/clubs/burton/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.263596631,52.39609029 ]
+    },
+    "properties": {
+    "id":80,
+    "club":"Kidderminster Carolians Ladies",
+    "league":"NC2 Midlands West",
+    "address":"Marlpool Ln, Kidderminster DY11 5HP",
+    "website":"https://www.kcrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.181153545,52.46158112 ]
+    },
+    "properties": {
+    "id":81,
+    "club":"Stourbridge Panthers Women",
+    "league":"NC2 Midlands West",
+    "address":"Bridgnorth Rd, Stourton, Stourbridge DY7 6QZ",
+    "website":"https://www.stourbridgerugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.448160845,52.66770789 ]
+    },
+    "properties": {
+    "id":82,
+    "club":"Telford Hornets Women",
+    "league":"NC2 Midlands West",
+    "address":"Hinkshay Rd, Telford TF4 3NZ",
+    "website":"https://www.telfordhornetsrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.438973331,52.82312964 ]
+    },
+    "properties": {
+    "id":83,
+    "club":"Melbourne Women",
+    "league":"NC3 Midlands North ",
+    "address":"Cockshut Ln, Melbourne, Derby DE73 8DG",
+    "website":"http://www.melbournerfc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.078606349,53.53468063 ]
+    },
+    "properties": {
+    "id":84,
+    "club":"Doncaster Demons Women II",
+    "league":"NC3 Midlands North ",
+    "address":"Armthorpe Rd, Doncaster DN2 5QB",
+    "website":"https://www.pitchero.com/clubs/Round Ash Park/Hand La, 63 Hand Ln, Leigh WN7 3NAdoncasterphoenix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.265674275,53.11174387 ]
+    },
+    "properties": {
+    "id":85,
+    "club":"Ashfield Ladies",
+    "league":"NC3 Midlands North ",
+    "address":"Larwood Park (Ashfield RUFC, Twickenham Rd, Sutton-in-Ashfield NG17 8SF",
+    "website":"https://www.ashfieldrufc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.286542645,52.89474444 ]
+    },
+    "properties": {
+    "id":86,
+    "club":"Long Eaton Ladies II",
+    "league":"NC3 Midlands North ",
+    "address":"West Park Clubhouse, West Park, Long Eaton, Derbyshire NG10 4AA",
+    "website":"https://longeatonrfc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.958188473,53.31310508 ]
+    },
+    "properties": {
+    "id":87,
+    "club":"East Retford Women",
+    "league":"NC3 Midlands North ",
+    "address":"Ordsall Rd, Ordsall, Retford DN22 7PW",
+    "website":"http://www.retfordrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.137701345,53.04798657 ]
+    },
+    "properties": {
+    "id":88,
+    "club":"Paviors Ladies",
+    "league":"NC3 Midlands North ",
+    "address":"Burntstump Hill, Arnold, Nottingham NG5 8PQ",
+    "website":"http://www.paviorsrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.695559502,52.72960898 ]
+    },
+    "properties": {
+    "id":89,
+    "club":"Shrewsbury Ladies",
+    "league":"NC3 Midlands North West",
+    "address":"Sundorne Castle, Uffington, Shrewsbury SY4 4RR",
+    "website":"http://www.shrewsburyrufc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.375539031,52.78048048 ]
+    },
+    "properties": {
+    "id":90,
+    "club":"Newport Salop Women",
+    "league":"NC3 Midlands North West",
+    "address":"The Old Showground, Forton Road, Newport TF10 8BU",
+    "website":"http://www.newportsaloprufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.127868545,52.87185315 ]
+    },
+    "properties": {
+    "id":91,
+    "club":"Stone Ladies",
+    "league":"NC3 Midlands North West",
+    "address":"Stone Hockey And Rugby Club Enson Lane Stone Staffordshire ST15 0BJ United Kingdom",
+    "website":"http://www.pitchero.com/clubs/stonehockeyclub"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.130241943,52.81089476 ]
+    },
+    "properties": {
+    "id":92,
+    "club":"Stafford Women II",
+    "league":"NC3 Midlands North West",
+    "address":"Blackberry Ln, Stafford ST16 2TT",
+    "website":"https://www.staffordrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.216172945,52.99610297 ]
+    },
+    "properties": {
+    "id":93,
+    "club":"Newcastle Staffs Women",
+    "league":"NC3 Midlands North West",
+    "address":"Lilleshall Rd, Newcastle-under-Lyme, Newcastle ST5 3BX",
+    "website":"https://www.pitchero.com/clubs/newcastlestaffsrufc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1311324,52.94682172 ]
+    },
+    "properties": {
+    "id":94,
+    "club":"Stoke on Trent Women",
+    "league":"NC3 Midlands North West",
+    "address":"Hartwell La, Stone ST15 8TL",
+    "website":"https://www.stokerufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.11090832,52.92395604 ]
+    },
+    "properties": {
+    "id":95,
+    "club":"West Bridgford Women",
+    "league":"NC1 Midlands West",
+    "address":"Stamford Rd, West Bridgford, Nottingham NG2 6GF",
+    "website":"https://www.westbridgfordrugby.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.978906,52.01232815 ]
+    },
+    "properties": {
+    "id":96,
+    "club":"Buckingham Swans Ladies II",
+    "league":"NC1 Midlands West",
+    "address":"Floyd Field, Maids Moreton, Buckingham MK18 1RF",
+    "website":"https://www.pitchero.com/clubs/buckingham/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.875018648,52.42802527 ]
+    },
+    "properties": {
+    "id":97,
+    "club":"Birmingham Moseley Women",
+    "league":"NC1 Midlands West",
+    "address":"Billesley Common, Yardley Wood Rd, Birmingham B13 0PT",
+    "website":"http://www.moseleyrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.874846487,52.5377307 ]
+    },
+    "properties": {
+    "id":98,
+    "club":"Aston Old Edwardians Women",
+    "league":"NC1 Midlands West",
+    "address":"Sunnybank Ave, Birmingham B44 0HP",
+    "website":"https://www.pitchero.com/clubs/astonoldedwardians/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.798122189,52.67184518 ]
+    },
+    "properties": {
+    "id":99,
+    "club":"Lichfield Ladies II",
+    "league":"NC1 Midlands West",
+    "address":"Cooke Fields, Tamworth Rd, Lichfield WS14 9JE",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.963674731,52.47565234 ]
+    },
+    "properties": {
+    "id":100,
+    "club":"Bournville Womens",
+    "league":"NC1 Midlands West",
+    "address":"79 Sandon Rd, Birmingham B17 8DT",
+    "website":"http://www.bournvillerfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.34844436,52.72627647 ]
+    },
+    "properties": {
+    "id":101,
+    "club":"Coalville Ladies",
+    "league":"NC1 Midlands West",
+    "address":"Hall Ln, Whitwick, Coalville LE67 5PF",
+    "website":"http://www.pitchero.com/clubs/coalville/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.533506487,52.32016439 ]
+    },
+    "properties": {
+    "id":102,
+    "club":"Old Leamingtonians Ladies",
+    "league":"NC1 Midlands West",
+    "address":"Bericote Road, Blackdown, Royal Leamington Spa CV32 6QP",
+    "website":"https://www.pitchero.com/clubs/oldleamingtonians/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.471741102,52.94230291 ]
+    },
+    "properties": {
+    "id":103,
+    "club":"Derby Women",
+    "league":"NC1 Midlands West",
+    "address":"Rugby Active at Derby Rugby Club, 8 Haslams Ln, Derby DE22 1EB",
+    "website":"http://www.derbyrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.94840426,52.56413257 ]
+    },
+    "properties": {
+    "id":104,
+    "club":"Handsworth Ladies",
+    "league":"NC1 Midlands West",
+    "address":"450 Birmingham Rd, Walsall WS5 3JP",
+    "website":"https://handsworthrufc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.064813802,51.93169176 ]
+    },
+    "properties": {
+    "id":105,
+    "club":"Cheltenham Tigers Women",
+    "league":"Championship North 1",
+    "address":"Newlands Park Sports & Social Venue, Southam Ln, Southam, Cheltenham GL52 3PE",
+    "website":"http://www.cheltenhamtigers.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.321740273,53.4165255 ]
+    },
+    "properties": {
+    "id":106,
+    "club":"Sale FC 1861 Women",
+    "league":"Championship North 1",
+    "address":"Corpacq Stadium Heywood Road Brooklands Sale Cheshire M33 3WB United Kingdom",
+    "website":"http://www.salefc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.604716045,53.87610035 ]
+    },
+    "properties": {
+    "id":107,
+    "club":"West Park Leeds Women",
+    "league":"Championship North 1",
+    "address":"The Sycamores, Bramhope, Leeds LS16 9JR",
+    "website":"http://www.westparkleeds.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.978906,52.01232815 ]
+    },
+    "properties": {
+    "id":108,
+    "club":"Buckingham Swans Ladies",
+    "league":"Championship North 1",
+    "address":"Floyd Field, Maids Moreton, Buckingham MK18 1RF",
+    "website":"https://www.pitchero.com/clubs/buckingham/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.72754954,52.23666591 ]
+    },
+    "properties": {
+    "id":109,
+    "club":"Bury St Edmunds Women",
+    "league":"Championship North 1",
+    "address":"The GK IPA Haberden, Southgate Grn, Bury Saint Edmunds IP33 2BL",
+    "website":"https://www.pitchero.com/clubs/burystedmunds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.798090002,52.67181265 ]
+    },
+    "properties": {
+    "id":110,
+    "club":"Lichfield Ladies",
+    "league":"Championship North 1",
+    "address":"Cooke Fields, Tamworth Rd, Lichfield WS14 9JE",
+    "website":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.56059646,52.33658638 ]
+    },
+    "properties": {
+    "id":111,
+    "club":"Kenilworth Women",
+    "league":"Championship North 1",
+    "address":"Glasshouse Lane, The Jack Davies Memorial Ground, Glasshouse Ln, Kenilworth CV8 2AJ",
+    "website":"http://www.kenilworthrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.496136629,53.54855084 ]
+    },
+    "properties": {
+    "id":112,
+    "club":"Barnsley Ladies",
+    "league":"Championship North 1",
+    "address":"Shaw La, Barnsley S70 6HZ",
+    "website":"https://www.pitchero.com/clubs/barnsley/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.583241736,55.00581882 ]
+    },
+    "properties": {
+    "id":113,
+    "club":"Novocastrians Ladies",
+    "league":"Championship North 1",
+    "address":"The Drive, Longbenton, Newcastle upon Tyne NE7 7SZ",
+    "website":"https://www.novos.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.690650002,54.95343915 ]
+    },
+    "properties": {
+    "id":114,
+    "club":"Blaydon Red Kites 1XV",
+    "league":"Championship North 1",
+    "address":"Crow Trees Ground Hexham Road Newcastle Upon Tyne Tyne And Wear NE16 3BN United Kingdom",
+    "website":"http://www.blaydonrfc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.453151989,53.99472129 ]
+    },
+    "properties": {
+    "id":115,
+    "club":"Driffield Women",
+    "league":"Championship North 2",
+    "address":"A164, Kelleythorpe, Driffield YO25 9DW",
+    "website":"http://www.driffieldrufc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.689475831,54.66293025 ]
+    },
+    "properties": {
+    "id":116,
+    "club":"Bishop Auckland Ladies",
+    "league":"Championship North 2",
+    "address":"West Mills Playing Fields, Bridge Rd, Bishop Auckland DL14 7PA",
+    "website":"https://www.pitchero.com/clubs/bishopaucklandrufc2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.883271173,53.74532331 ]
+    },
+    "properties": {
+    "id":117,
+    "club":"Halifax Ladies",
+    "league":"Championship North 2",
+    "address":"Ovenden Park, Keighley Road, Halifax HX2 8AR",
+    "website":"https://halifaxrufc.rfu.club/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.191857631,53.35667157 ]
+    },
+    "properties": {
+    "id":118,
+    "club":"Manchester Women",
+    "league":"Championship North 2",
+    "address":"Grove Park, Grove Ln, Cheadle Hulme, Cheadle SK8 7NB",
+    "website":"http://www.manchesterrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.843443331,53.19722651 ]
+    },
+    "properties": {
+    "id":119,
+    "club":"Chester Devas Women",
+    "league":"Championship North 2",
+    "address":"Hare Lane Littleton, Hare Ln, Littleton, Chester CH3 7DB",
+    "website":"https://www.chesterrufc.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.520620636,53.32568558 ]
+    },
+    "properties": {
+    "id":120,
+    "club":"Sheffield Women",
+    "league":"Championship North 2",
+    "address":"Abbeydale Sports Club, Abbeydale Rd S, Sheffield S17 3LJ",
+    "website":"https://www.pitchero.com/clubs/sheffield"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.777737936,53.47141189 ]
+    },
+    "properties": {
+    "id":121,
+    "club":"Liverpool St Helens Women",
+    "league":"Championship North 2",
+    "address":"Moss Ln, Saint Helens WA11 7PL",
+    "website":"https://www.liverpoolsthelensrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.895207631,53.42894009 ]
+    },
+    "properties": {
+    "id":122,
+    "club":"Sefton Ladies",
+    "league":"Championship North 2",
+    "address":"Thornhead Ln, West Derby, Liverpool L12 9EY",
+    "website":"http://www.seftonrufc.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73466774,54.34388374 ]
+    },
+    "properties": {
+    "id":123,
+    "club":"Kendal Wasps",
+    "league":"Championship North 2",
+    "address":"Shap Rd, Kendal LA9 6NY",
+    "website":"https://www.kendalrugby.co.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.049158693,53.3969399 ]
+    },
+    "properties": {
+    "id":124,
+    "club":"Birkenhead Park Ladies",
+    "league":"Championship North 2",
+    "address":"141 Park Rd N, Birkenhead CH41 8AA",
+    "website":"NA"
+    }
+  }
+]
+}
